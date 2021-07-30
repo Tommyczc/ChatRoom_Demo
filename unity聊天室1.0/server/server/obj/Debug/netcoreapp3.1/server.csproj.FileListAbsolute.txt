@@ -1,0 +1,13 @@
+D:\git\multiplay_fps_game-\server\server\bin\Debug\netcoreapp3.1\server.exe
+D:\git\multiplay_fps_game-\server\server\bin\Debug\netcoreapp3.1\server.deps.json
+D:\git\multiplay_fps_game-\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+D:\git\multiplay_fps_game-\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+D:\git\multiplay_fps_game-\server\server\bin\Debug\netcoreapp3.1\server.dll
+D:\git\multiplay_fps_game-\server\server\bin\Debug\netcoreapp3.1\server.pdb
+D:\git\multiplay_fps_game-\server\server\obj\Debug\netcoreapp3.1\server.csproj.AssemblyReference.cache
+D:\git\multiplay_fps_game-\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+D:\git\multiplay_fps_game-\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+D:\git\multiplay_fps_game-\server\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+D:\git\multiplay_fps_game-\server\server\obj\Debug\netcoreapp3.1\server.dll
+D:\git\multiplay_fps_game-\server\server\obj\Debug\netcoreapp3.1\server.pdb
+D:\git\multiplay_fps_game-\server\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
