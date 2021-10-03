@@ -15,6 +15,8 @@ public class register : MonoBehaviour
     public Button button;
     string userName;
     private Socket socket;
+    public InputField inputip;
+    public InputField inputport;
     public string ip;
     public int port;
     //op开头是操作码
@@ -26,16 +28,16 @@ public class register : MonoBehaviour
     public GameObject chatRoom;
     void Start()
     {
-        ConnectToServer();
+        //ConnectToServer();
     }
 
 
     void ConnectToServer()
     {
-        socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+        this.socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
         //发起连接
         try {
-            socket.Connect(new IPEndPoint(IPAddress.Parse(ip), port));
+            this.socket.Connect(new IPEndPoint(IPAddress.Parse(this.ip), this.port));
         }
         catch (Exception ex) {
             Debug.Log(ex);
@@ -59,10 +61,19 @@ public class register : MonoBehaviour
         if (inputcontext.text!=null) {
             userName = inputcontext.text;
             inputcontext.text = null;
+            if (inputip.text!="") {
+                this.ip = inputip.text;
+            }
+            if (inputport.text!="") {
+
+                int.TryParse(inputport.text, out this.port);
+            }
+            ConnectToServer();
             byte[] userMessage = nameMessage(userName);
+            
             //Debug.Log(userName);
             try {
-                socket.Send(userMessage);
+                this.socket.Send(userMessage);
             }
             catch (Exception ex) {
                 Debug.Log(ex);

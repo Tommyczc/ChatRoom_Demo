@@ -12,8 +12,8 @@ namespace myServer
         {
 
             Socket TcpServer = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-            String ip = GetLocalIPv4();
-            //String ip = "127.0.0.1";
+            //String ip = GetLocalIPv4();
+            String ip = "192.168.137.88";
             int port = 7788;
             if (ip!=null) {
                 TcpServer.Bind(new IPEndPoint(IPAddress.Parse(ip), port));

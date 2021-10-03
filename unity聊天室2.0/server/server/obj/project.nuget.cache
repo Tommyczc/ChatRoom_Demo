@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qDN89IZlXjszKyZLTDs89a+N5KW9HbJkRkOBy/w2enLzZzHfPy/qHZ9q/v2yPycUqvkvdeIBIrXIeQA1vyfaSg==",
+  "dgSpecHash": "arwxC7PXNd9ZRmekxk26uNe7euQxrj/XOLKy4CDdAdFtzgjUAQ1NUaY04EyEYBlMrVzgGhyfJfvwJc4AaY19TA==",
   "success": true,
-  "projectFilePath": "D:\\git\\multiplay_fps_game-\\unity聊天室2.0\\server\\server\\server.csproj",
+  "projectFilePath": "D:\\Github_personal_file\\ChatRoom_Demo\\unity聊天室2.0\\server\\server\\server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

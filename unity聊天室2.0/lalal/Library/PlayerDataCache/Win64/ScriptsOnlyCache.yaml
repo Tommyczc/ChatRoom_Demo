@@ -423,7 +423,7 @@ ScriptsOnlyBuild:
     className: SignalTrack
   - hash:
       serializedVersion: 2
-      Hash: ace521c4d72ff939a155956bdd5f6b54
+      Hash: 6878219ebbc589e3d06ae5f9553e0122
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: register
@@ -532,4 +532,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: "D:/git/multiplay_fps_game-/unity\u804A\u5929\u5BA42.0/Documents/assshole.exe"
+  playerPath: "D:/Github_personal_file/ChatRoom_Demo/unity\u804A\u5929\u5BA42.0/testpak/assshole.exe"

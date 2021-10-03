@@ -24,3 +24,17 @@ D:\git\multiplay_fps_game-\unity聊天室2.0\server\server\obj\Debug\netcoreapp3
 D:\git\multiplay_fps_game-\unity聊天室2.0\server\server\obj\Debug\netcoreapp3.1\server.dll
 D:\git\multiplay_fps_game-\unity聊天室2.0\server\server\obj\Debug\netcoreapp3.1\server.pdb
 D:\git\multiplay_fps_game-\unity聊天室2.0\server\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\bin\Debug\netcoreapp3.1\server.exe
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\bin\Debug\netcoreapp3.1\server.deps.json
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\bin\Debug\netcoreapp3.1\server.dll
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\bin\Debug\netcoreapp3.1\server.pdb
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\obj\Debug\netcoreapp3.1\server.csproj.AssemblyReference.cache
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\obj\Debug\netcoreapp3.1\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\obj\Debug\netcoreapp3.1\server.dll
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\obj\Debug\netcoreapp3.1\server.pdb
+D:\Github_personal_file\ChatRoom_Demo\unity聊天室2.0\server\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
