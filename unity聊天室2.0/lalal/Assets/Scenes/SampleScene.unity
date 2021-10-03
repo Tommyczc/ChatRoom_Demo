@@ -646,7 +646,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -687,7 +687,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 303, y: -8, z: -246}
+  m_LocalPosition: {x: 1040, y: 523, z: -246}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1306,6 +1306,30 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3255384410462265122, guid: cef0baed6b73cc446be245519a87f1ed, type: 3}
+      propertyPath: m_Type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3255384410462265122, guid: cef0baed6b73cc446be245519a87f1ed, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3255384410462265122, guid: cef0baed6b73cc446be245519a87f1ed, type: 3}
+      propertyPath: m_Color.b
+      value: 0.454902
+      objectReference: {fileID: 0}
+    - target: {fileID: 3255384410462265122, guid: cef0baed6b73cc446be245519a87f1ed, type: 3}
+      propertyPath: m_Color.g
+      value: 0.454902
+      objectReference: {fileID: 0}
+    - target: {fileID: 3255384410462265122, guid: cef0baed6b73cc446be245519a87f1ed, type: 3}
+      propertyPath: m_Color.r
+      value: 0.454902
+      objectReference: {fileID: 0}
+    - target: {fileID: 3255384410472739393, guid: cef0baed6b73cc446be245519a87f1ed, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3255384410719710663, guid: cef0baed6b73cc446be245519a87f1ed, type: 3}
       propertyPath: m_Name
       value: Canvas
@@ -1625,6 +1649,10 @@ PrefabInstance:
     - target: {fileID: 5540238500781593471, guid: 06ec2656a54030b428789b914f3fba8a, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 5540238500972166794, guid: 06ec2656a54030b428789b914f3fba8a, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 06ec2656a54030b428789b914f3fba8a, type: 3}

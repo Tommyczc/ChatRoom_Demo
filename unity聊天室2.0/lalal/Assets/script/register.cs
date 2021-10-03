@@ -62,10 +62,11 @@ public class register : MonoBehaviour
             userName = inputcontext.text;
             inputcontext.text = null;
             if (inputip.text!="") {
+                Debug.Log("ip has changed");
                 this.ip = inputip.text;
             }
             if (inputport.text!="") {
-
+                Debug.Log("port has changed");
                 int.TryParse(inputport.text, out this.port);
             }
             ConnectToServer();
@@ -73,7 +74,7 @@ public class register : MonoBehaviour
             
             //Debug.Log(userName);
             try {
-                this.socket.Send(userMessage);
+                socket.Send(userMessage);
             }
             catch (Exception ex) {
                 Debug.Log(ex);

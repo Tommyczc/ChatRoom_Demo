@@ -119,8 +119,8 @@ public class chatRoom : MonoBehaviour
             //Debug.Log(length);
             if (length==0) {
                 Debug.Log("disconnect");
-                TcpClient.Close();
-                break; 
+                //TcpClient.Close();
+                //break; 
             }
             if (data[1] == op1) {
                 //Debug.Log("reciev a b mes from server");
